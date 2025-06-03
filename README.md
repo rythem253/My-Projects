@@ -1,1 +1,1 @@
-Adding and Removing Nodes from a Linked List
+Small projects to enhance programming skills.
